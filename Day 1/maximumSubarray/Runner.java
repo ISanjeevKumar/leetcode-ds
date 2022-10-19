@@ -1,9 +1,7 @@
-package maximumSubarray;
 
 class Solution {
     public int maxSubArray(int[] nums) {
 
-        int tempNum;
         int maxSum = nums[0];
         int currentSum = nums[0];
 

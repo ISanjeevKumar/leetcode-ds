@@ -1,5 +1,3 @@
-package ContainsDuplicate;
-
 class Runner {
 
     public static boolean containsDuplicate(int[] nums) {
